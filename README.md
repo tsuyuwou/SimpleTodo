@@ -18,21 +18,13 @@ The following **optional** features are implemented:
 
 * [x] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media2.giphy.com/media/DmCzDXt45bZFzqnAiX/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [EZGIF.COM](https://media2.giphy.com/media/DmCzDXt45bZFzqnAiX/giphy.gif).
-
-## Notes
-
-Describe any challenges encountered while building the app.
+GIF created with [EZGIF.COM](https://ezgif.com/video-to-gif/).
 
 ## License
 
